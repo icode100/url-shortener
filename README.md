@@ -1,7 +1,5 @@
 # URL Shortener & Link Analytics
 
-> Confidential take-home submission. Keep this repository private.
-
 A persistent URL-shortening service built with Java 17 and Spring Boot. It creates collision-free generated codes or caller-selected aliases, returns permanent redirects, and records server-observed redirect analytics.
 
 ## What is included
